@@ -10,3 +10,4 @@ img = qr.make_image(fill_color = 'blue' ,back_color = 'black')
 
 img.save("C:/Users/User/Pictures/Camera Roll/myqrcode3.png")
 
+CGNM K;LFYJYUILIHDWE4TETUOLOKL;IYR
